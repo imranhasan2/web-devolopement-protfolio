@@ -118,11 +118,17 @@ nav a {
 }
 
 /* main section */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+
+}
 
 /* about section style */
 .about {
     padding: 131px;
     border-radius: 10px;
     background: #FFF8F3;
-    margin: 130px 264px 130px 260px;   
+    margin:130px 0;
+     
 }
