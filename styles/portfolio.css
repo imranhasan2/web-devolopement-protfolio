@@ -18,7 +18,7 @@ body {
     font-weight: 400;
 }
 
-/* nav releated style */
+/* nav related style */
 nav {
     display: flex;
     justify-content: space-between;
@@ -109,9 +109,10 @@ nav a {
 
 }
 
-.banner-discription {
+.banner-description {
     font-size: 18px;
-    font-weight: 400 color: #757575;
+    font-weight: 400 ;
+    color: #757575;
     margin-bottom: 0px;
     margin-top: 0px;
 
